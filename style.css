@@ -3,3 +3,36 @@ img {
     width: 150px;
     border-radius: 10px;
 }
+#Nome {
+    font-family: cursive;
+    color:#fcf6bd;
+    font-style: italic;
+    
+
+
+}
+#Descrição {
+    font-family: cursive;
+    color:#fcf6bd;
+    font-style: italic;
+   
+}
+
+body {
+    font-family: cursive;
+    color:whitesmoke;
+    background-color:#264653;
+}
+a {
+    color: whitesmoke;
+}
+
+.controladoria {
+    font-size: 120%;
+}
+.logistica {
+    font-size: 110%;
+}
+.eventos {
+    font-size: 100%;
+}
